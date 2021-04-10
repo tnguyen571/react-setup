@@ -1,5 +1,4 @@
 import React from 'react';
-import { ToggleButton } from 'react-bootstrap';
 import './toggle-switch.scss'
 
 class ToogleSwitch extends React.Component {
